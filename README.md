@@ -1,7 +1,8 @@
 # demon
 
-*usage: demon command [args ...]"
-Continuously run a program, restart it after it exit. Like a `daemon`*
+*usage: demon command [args ...]"*
+
+*Continuously run a program, restart it after it exit. Like a `daemon`*
 
 ## Installation
 
